@@ -1,3 +1,4 @@
 # admission-system
 
-C++ code to record, search, edit, display & delete student record
+to record, search, edit, display & delete student record
+the record saved in txt file
